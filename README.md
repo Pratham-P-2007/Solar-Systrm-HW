@@ -1,2 +1,2 @@
-# Solar-Systrm-HW
+# Solar-System-HW
 yay
