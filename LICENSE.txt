@@ -1,4 +1,4 @@
-Copyright (c) 2020 Pratham Prabhu
+Copyright (c) 2020 Pratham-P-2007
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
